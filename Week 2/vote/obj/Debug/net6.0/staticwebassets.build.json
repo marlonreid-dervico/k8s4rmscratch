@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "Hash": "2t9w+5gpMznhrnwVjXK16femZF9T0aJeDcntkyglJ+Q=",
+  "Source": "Vote",
+  "BasePath": "_content/Vote",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Vote\\wwwroot",
+      "Source": "Vote",
+      "ContentRoot": "D:\\Dev\\kubernetes-training\\k8s4rmscratch\\Week 2\\vote\\wwwroot\\",
+      "BasePath": "_content/Vote",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\Dev\\kubernetes-training\\k8s4rmscratch\\Week 2\\vote\\wwwroot\\css\\site.css",
+      "SourceId": "Vote",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Dev\\kubernetes-training\\k8s4rmscratch\\Week 2\\vote\\wwwroot\\",
+      "BasePath": "_content/Vote",
+      "RelativePath": "css/site.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\site.css"
+    },
+    {
+      "Identity": "D:\\Dev\\kubernetes-training\\k8s4rmscratch\\Week 2\\vote\\wwwroot\\css\\site.min.css",
+      "SourceId": "Vote",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Dev\\kubernetes-training\\k8s4rmscratch\\Week 2\\vote\\wwwroot\\",
+      "BasePath": "_content/Vote",
+      "RelativePath": "css/site.min.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\site.min.css"
+    },
+    {
+      "Identity": "D:\\Dev\\kubernetes-training\\k8s4rmscratch\\Week 2\\vote\\wwwroot\\js\\jquery-1.11.1-min.js",
+      "SourceId": "Vote",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Dev\\kubernetes-training\\k8s4rmscratch\\Week 2\\vote\\wwwroot\\",
+      "BasePath": "_content/Vote",
+      "RelativePath": "js/jquery-1.11.1-min.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\jquery-1.11.1-min.js"
+    }
+  ]
+}

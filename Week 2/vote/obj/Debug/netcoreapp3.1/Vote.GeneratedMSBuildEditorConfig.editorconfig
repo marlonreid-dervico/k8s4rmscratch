@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = Vote
+build_property.ProjectDir = D:\demos\example-voting-app\vote\dotnet\Vote\

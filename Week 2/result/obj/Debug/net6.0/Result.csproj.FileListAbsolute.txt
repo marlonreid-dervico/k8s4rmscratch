@@ -1,0 +1,183 @@
+D:\demos\example-voting-app\result\dotnet\Result\obj\Debug\net6.0\Result.csproj.AssemblyReference.cache
+D:\demos\example-voting-app\result\dotnet\Result\obj\Debug\net6.0\Result.GeneratedMSBuildEditorConfig.editorconfig
+D:\demos\example-voting-app\result\dotnet\Result\obj\Debug\net6.0\Result.AssemblyInfoInputs.cache
+D:\demos\example-voting-app\result\dotnet\Result\obj\Debug\net6.0\Result.AssemblyInfo.cs
+D:\demos\example-voting-app\result\dotnet\Result\obj\Debug\net6.0\Result.csproj.CoreCompileInputs.cache
+D:\demos\example-voting-app\result\dotnet\Result\obj\Debug\net6.0\Result.MvcApplicationPartsAssemblyInfo.cache
+D:\demos\example-voting-app\result\dotnet\Result\obj\Debug\net6.0\Result.RazorAssemblyInfo.cache
+D:\demos\example-voting-app\result\dotnet\Result\obj\Debug\net6.0\Result.RazorAssemblyInfo.cs
+D:\demos\example-voting-app\result\dotnet\Result\bin\Debug\net6.0\appsettings.Development.json
+D:\demos\example-voting-app\result\dotnet\Result\bin\Debug\net6.0\appsettings.json
+D:\demos\example-voting-app\result\dotnet\Result\bin\Debug\net6.0\Result.staticwebassets.runtime.json
+D:\demos\example-voting-app\result\dotnet\Result\bin\Debug\net6.0\Result.exe
+D:\demos\example-voting-app\result\dotnet\Result\bin\Debug\net6.0\Result.deps.json
+D:\demos\example-voting-app\result\dotnet\Result\bin\Debug\net6.0\Result.runtimeconfig.json
+D:\demos\example-voting-app\result\dotnet\Result\bin\Debug\net6.0\Result.dll
+D:\demos\example-voting-app\result\dotnet\Result\bin\Debug\net6.0\Result.pdb
+D:\demos\example-voting-app\result\dotnet\Result\bin\Debug\net6.0\Dapper.dll
+D:\demos\example-voting-app\result\dotnet\Result\bin\Debug\net6.0\Google.Protobuf.dll
+D:\demos\example-voting-app\result\dotnet\Result\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+D:\demos\example-voting-app\result\dotnet\Result\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+D:\demos\example-voting-app\result\dotnet\Result\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+D:\demos\example-voting-app\result\dotnet\Result\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\demos\example-voting-app\result\dotnet\Result\bin\Debug\net6.0\MySql.Data.dll
+D:\demos\example-voting-app\result\dotnet\Result\bin\Debug\net6.0\Ubiety.Dns.Core.dll
+D:\demos\example-voting-app\result\dotnet\Result\bin\Debug\net6.0\ZstdNet.dll
+D:\demos\example-voting-app\result\dotnet\Result\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+D:\demos\example-voting-app\result\dotnet\Result\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\demos\example-voting-app\result\dotnet\Result\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\demos\example-voting-app\result\dotnet\Result\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\demos\example-voting-app\result\dotnet\Result\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\demos\example-voting-app\result\dotnet\Result\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\demos\example-voting-app\result\dotnet\Result\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\demos\example-voting-app\result\dotnet\Result\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\demos\example-voting-app\result\dotnet\Result\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\demos\example-voting-app\result\dotnet\Result\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\demos\example-voting-app\result\dotnet\Result\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\demos\example-voting-app\result\dotnet\Result\obj\Debug\net6.0\staticwebassets.build.json
+D:\demos\example-voting-app\result\dotnet\Result\obj\Debug\net6.0\staticwebassets.development.json
+D:\demos\example-voting-app\result\dotnet\Result\obj\Debug\net6.0\scopedcss\bundle\Result.styles.css
+D:\demos\example-voting-app\result\dotnet\Result\obj\Debug\net6.0\Result.csproj.CopyComplete
+D:\demos\example-voting-app\result\dotnet\Result\obj\Debug\net6.0\Result.dll
+D:\demos\example-voting-app\result\dotnet\Result\obj\Debug\net6.0\refint\Result.dll
+D:\demos\example-voting-app\result\dotnet\Result\obj\Debug\net6.0\Result.pdb
+D:\demos\example-voting-app\result\dotnet\Result\obj\Debug\net6.0\Result.genruntimeconfig.cache
+D:\demos\example-voting-app\result\dotnet\Result\obj\Debug\net6.0\ref\Result.dll
+D:\demos\example-voting-app\result\dotnet\Result\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\demos\example-voting-app\result\dotnet\Result\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\demos\example-voting-app\result\dotnet\Result\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\demos\example-voting-app\result\dotnet\Result\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\demos\example-voting-app\result\dotnet\Result\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\demos\example-voting-app\result\dotnet\Result\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\demos\example-voting-app\result\dotnet\Result\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\demos\example-voting-app\result\dotnet\Result\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\demos\example-voting-app\result\dotnet\Result\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\demos\example-voting-app\result\dotnet\Result\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\demos\example-voting-app\result\dotnet\Result\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\demos\example-voting-app\result\dotnet\Result\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\demos\example-voting-app\result\dotnet\Result\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\demos\example-voting-app\result\dotnet\Result\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\demos\example-voting-app\result\dotnet\Result\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\demos\example-voting-app\result\dotnet\Result\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Dev\kubernetes-training\k8s4rmscratch\Week 2\result\dotnet\Result\bin\Debug\net6.0\appsettings.Development.json
+D:\Dev\kubernetes-training\k8s4rmscratch\Week 2\result\dotnet\Result\bin\Debug\net6.0\appsettings.json
+D:\Dev\kubernetes-training\k8s4rmscratch\Week 2\result\dotnet\Result\bin\Debug\net6.0\Result.staticwebassets.runtime.json
+D:\Dev\kubernetes-training\k8s4rmscratch\Week 2\result\dotnet\Result\bin\Debug\net6.0\Result.exe
+D:\Dev\kubernetes-training\k8s4rmscratch\Week 2\result\dotnet\Result\bin\Debug\net6.0\Result.deps.json
+D:\Dev\kubernetes-training\k8s4rmscratch\Week 2\result\dotnet\Result\bin\Debug\net6.0\Result.runtimeconfig.json
+D:\Dev\kubernetes-training\k8s4rmscratch\Week 2\result\dotnet\Result\bin\Debug\net6.0\Result.dll
+D:\Dev\kubernetes-training\k8s4rmscratch\Week 2\result\dotnet\Result\bin\Debug\net6.0\Result.pdb
+D:\Dev\kubernetes-training\k8s4rmscratch\Week 2\result\dotnet\Result\bin\Debug\net6.0\Dapper.dll
+D:\Dev\kubernetes-training\k8s4rmscratch\Week 2\result\dotnet\Result\bin\Debug\net6.0\Google.Protobuf.dll
+D:\Dev\kubernetes-training\k8s4rmscratch\Week 2\result\dotnet\Result\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+D:\Dev\kubernetes-training\k8s4rmscratch\Week 2\result\dotnet\Result\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+D:\Dev\kubernetes-training\k8s4rmscratch\Week 2\result\dotnet\Result\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+D:\Dev\kubernetes-training\k8s4rmscratch\Week 2\result\dotnet\Result\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Dev\kubernetes-training\k8s4rmscratch\Week 2\result\dotnet\Result\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Dev\kubernetes-training\k8s4rmscratch\Week 2\result\dotnet\Result\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Dev\kubernetes-training\k8s4rmscratch\Week 2\result\dotnet\Result\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Dev\kubernetes-training\k8s4rmscratch\Week 2\result\dotnet\Result\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Dev\kubernetes-training\k8s4rmscratch\Week 2\result\dotnet\Result\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Dev\kubernetes-training\k8s4rmscratch\Week 2\result\dotnet\Result\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Dev\kubernetes-training\k8s4rmscratch\Week 2\result\dotnet\Result\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Dev\kubernetes-training\k8s4rmscratch\Week 2\result\dotnet\Result\bin\Debug\net6.0\MySql.Data.dll
+D:\Dev\kubernetes-training\k8s4rmscratch\Week 2\result\dotnet\Result\bin\Debug\net6.0\Ubiety.Dns.Core.dll
+D:\Dev\kubernetes-training\k8s4rmscratch\Week 2\result\dotnet\Result\bin\Debug\net6.0\ZstdNet.dll
+D:\Dev\kubernetes-training\k8s4rmscratch\Week 2\result\dotnet\Result\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+D:\Dev\kubernetes-training\k8s4rmscratch\Week 2\result\dotnet\Result\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Dev\kubernetes-training\k8s4rmscratch\Week 2\result\dotnet\Result\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Dev\kubernetes-training\k8s4rmscratch\Week 2\result\dotnet\Result\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Dev\kubernetes-training\k8s4rmscratch\Week 2\result\dotnet\Result\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Dev\kubernetes-training\k8s4rmscratch\Week 2\result\dotnet\Result\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Dev\kubernetes-training\k8s4rmscratch\Week 2\result\dotnet\Result\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Dev\kubernetes-training\k8s4rmscratch\Week 2\result\dotnet\Result\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Dev\kubernetes-training\k8s4rmscratch\Week 2\result\dotnet\Result\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Dev\kubernetes-training\k8s4rmscratch\Week 2\result\dotnet\Result\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Dev\kubernetes-training\k8s4rmscratch\Week 2\result\dotnet\Result\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Dev\kubernetes-training\k8s4rmscratch\Week 2\result\dotnet\Result\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Dev\kubernetes-training\k8s4rmscratch\Week 2\result\dotnet\Result\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Dev\kubernetes-training\k8s4rmscratch\Week 2\result\dotnet\Result\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Dev\kubernetes-training\k8s4rmscratch\Week 2\result\dotnet\Result\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Dev\kubernetes-training\k8s4rmscratch\Week 2\result\dotnet\Result\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Dev\kubernetes-training\k8s4rmscratch\Week 2\result\dotnet\Result\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Dev\kubernetes-training\k8s4rmscratch\Week 2\result\dotnet\Result\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Dev\kubernetes-training\k8s4rmscratch\Week 2\result\dotnet\Result\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Dev\kubernetes-training\k8s4rmscratch\Week 2\result\dotnet\Result\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Dev\kubernetes-training\k8s4rmscratch\Week 2\result\dotnet\Result\obj\Debug\net6.0\Result.csproj.AssemblyReference.cache
+D:\Dev\kubernetes-training\k8s4rmscratch\Week 2\result\dotnet\Result\obj\Debug\net6.0\Result.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\kubernetes-training\k8s4rmscratch\Week 2\result\dotnet\Result\obj\Debug\net6.0\Result.AssemblyInfoInputs.cache
+D:\Dev\kubernetes-training\k8s4rmscratch\Week 2\result\dotnet\Result\obj\Debug\net6.0\Result.AssemblyInfo.cs
+D:\Dev\kubernetes-training\k8s4rmscratch\Week 2\result\dotnet\Result\obj\Debug\net6.0\Result.csproj.CoreCompileInputs.cache
+D:\Dev\kubernetes-training\k8s4rmscratch\Week 2\result\dotnet\Result\obj\Debug\net6.0\Result.MvcApplicationPartsAssemblyInfo.cache
+D:\Dev\kubernetes-training\k8s4rmscratch\Week 2\result\dotnet\Result\obj\Debug\net6.0\Result.RazorAssemblyInfo.cache
+D:\Dev\kubernetes-training\k8s4rmscratch\Week 2\result\dotnet\Result\obj\Debug\net6.0\Result.RazorAssemblyInfo.cs
+D:\Dev\kubernetes-training\k8s4rmscratch\Week 2\result\dotnet\Result\obj\Debug\net6.0\staticwebassets.build.json
+D:\Dev\kubernetes-training\k8s4rmscratch\Week 2\result\dotnet\Result\obj\Debug\net6.0\staticwebassets.development.json
+D:\Dev\kubernetes-training\k8s4rmscratch\Week 2\result\dotnet\Result\obj\Debug\net6.0\scopedcss\bundle\Result.styles.css
+D:\Dev\kubernetes-training\k8s4rmscratch\Week 2\result\dotnet\Result\obj\Debug\net6.0\Result.csproj.CopyComplete
+D:\Dev\kubernetes-training\k8s4rmscratch\Week 2\result\dotnet\Result\obj\Debug\net6.0\Result.dll
+D:\Dev\kubernetes-training\k8s4rmscratch\Week 2\result\dotnet\Result\obj\Debug\net6.0\refint\Result.dll
+D:\Dev\kubernetes-training\k8s4rmscratch\Week 2\result\dotnet\Result\obj\Debug\net6.0\Result.pdb
+D:\Dev\kubernetes-training\k8s4rmscratch\Week 2\result\dotnet\Result\obj\Debug\net6.0\Result.genruntimeconfig.cache
+D:\Dev\kubernetes-training\k8s4rmscratch\Week 2\result\dotnet\Result\obj\Debug\net6.0\ref\Result.dll
+D:\Dev\kubernetes-training\k8s4rmscratch\Week 2\result\bin\Debug\net6.0\appsettings.Development.json
+D:\Dev\kubernetes-training\k8s4rmscratch\Week 2\result\bin\Debug\net6.0\appsettings.json
+D:\Dev\kubernetes-training\k8s4rmscratch\Week 2\result\bin\Debug\net6.0\Result.staticwebassets.runtime.json
+D:\Dev\kubernetes-training\k8s4rmscratch\Week 2\result\bin\Debug\net6.0\Result.exe
+D:\Dev\kubernetes-training\k8s4rmscratch\Week 2\result\bin\Debug\net6.0\Result.deps.json
+D:\Dev\kubernetes-training\k8s4rmscratch\Week 2\result\bin\Debug\net6.0\Result.runtimeconfig.json
+D:\Dev\kubernetes-training\k8s4rmscratch\Week 2\result\bin\Debug\net6.0\Result.dll
+D:\Dev\kubernetes-training\k8s4rmscratch\Week 2\result\bin\Debug\net6.0\Result.pdb
+D:\Dev\kubernetes-training\k8s4rmscratch\Week 2\result\bin\Debug\net6.0\Dapper.dll
+D:\Dev\kubernetes-training\k8s4rmscratch\Week 2\result\bin\Debug\net6.0\Google.Protobuf.dll
+D:\Dev\kubernetes-training\k8s4rmscratch\Week 2\result\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+D:\Dev\kubernetes-training\k8s4rmscratch\Week 2\result\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+D:\Dev\kubernetes-training\k8s4rmscratch\Week 2\result\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+D:\Dev\kubernetes-training\k8s4rmscratch\Week 2\result\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Dev\kubernetes-training\k8s4rmscratch\Week 2\result\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Dev\kubernetes-training\k8s4rmscratch\Week 2\result\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Dev\kubernetes-training\k8s4rmscratch\Week 2\result\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Dev\kubernetes-training\k8s4rmscratch\Week 2\result\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Dev\kubernetes-training\k8s4rmscratch\Week 2\result\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Dev\kubernetes-training\k8s4rmscratch\Week 2\result\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Dev\kubernetes-training\k8s4rmscratch\Week 2\result\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Dev\kubernetes-training\k8s4rmscratch\Week 2\result\bin\Debug\net6.0\MySql.Data.dll
+D:\Dev\kubernetes-training\k8s4rmscratch\Week 2\result\bin\Debug\net6.0\Ubiety.Dns.Core.dll
+D:\Dev\kubernetes-training\k8s4rmscratch\Week 2\result\bin\Debug\net6.0\ZstdNet.dll
+D:\Dev\kubernetes-training\k8s4rmscratch\Week 2\result\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+D:\Dev\kubernetes-training\k8s4rmscratch\Week 2\result\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Dev\kubernetes-training\k8s4rmscratch\Week 2\result\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Dev\kubernetes-training\k8s4rmscratch\Week 2\result\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Dev\kubernetes-training\k8s4rmscratch\Week 2\result\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Dev\kubernetes-training\k8s4rmscratch\Week 2\result\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Dev\kubernetes-training\k8s4rmscratch\Week 2\result\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Dev\kubernetes-training\k8s4rmscratch\Week 2\result\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Dev\kubernetes-training\k8s4rmscratch\Week 2\result\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Dev\kubernetes-training\k8s4rmscratch\Week 2\result\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Dev\kubernetes-training\k8s4rmscratch\Week 2\result\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Dev\kubernetes-training\k8s4rmscratch\Week 2\result\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Dev\kubernetes-training\k8s4rmscratch\Week 2\result\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Dev\kubernetes-training\k8s4rmscratch\Week 2\result\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Dev\kubernetes-training\k8s4rmscratch\Week 2\result\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Dev\kubernetes-training\k8s4rmscratch\Week 2\result\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Dev\kubernetes-training\k8s4rmscratch\Week 2\result\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Dev\kubernetes-training\k8s4rmscratch\Week 2\result\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Dev\kubernetes-training\k8s4rmscratch\Week 2\result\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Dev\kubernetes-training\k8s4rmscratch\Week 2\result\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Dev\kubernetes-training\k8s4rmscratch\Week 2\result\obj\Debug\net6.0\Result.csproj.AssemblyReference.cache
+D:\Dev\kubernetes-training\k8s4rmscratch\Week 2\result\obj\Debug\net6.0\Result.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\kubernetes-training\k8s4rmscratch\Week 2\result\obj\Debug\net6.0\Result.AssemblyInfoInputs.cache
+D:\Dev\kubernetes-training\k8s4rmscratch\Week 2\result\obj\Debug\net6.0\Result.AssemblyInfo.cs
+D:\Dev\kubernetes-training\k8s4rmscratch\Week 2\result\obj\Debug\net6.0\Result.csproj.CoreCompileInputs.cache
+D:\Dev\kubernetes-training\k8s4rmscratch\Week 2\result\obj\Debug\net6.0\Result.MvcApplicationPartsAssemblyInfo.cache
+D:\Dev\kubernetes-training\k8s4rmscratch\Week 2\result\obj\Debug\net6.0\Result.RazorAssemblyInfo.cache
+D:\Dev\kubernetes-training\k8s4rmscratch\Week 2\result\obj\Debug\net6.0\Result.RazorAssemblyInfo.cs
+D:\Dev\kubernetes-training\k8s4rmscratch\Week 2\result\obj\Debug\net6.0\staticwebassets.build.json
+D:\Dev\kubernetes-training\k8s4rmscratch\Week 2\result\obj\Debug\net6.0\staticwebassets.development.json
+D:\Dev\kubernetes-training\k8s4rmscratch\Week 2\result\obj\Debug\net6.0\scopedcss\bundle\Result.styles.css
+D:\Dev\kubernetes-training\k8s4rmscratch\Week 2\result\obj\Debug\net6.0\Result.csproj.CopyComplete
+D:\Dev\kubernetes-training\k8s4rmscratch\Week 2\result\obj\Debug\net6.0\Result.dll
+D:\Dev\kubernetes-training\k8s4rmscratch\Week 2\result\obj\Debug\net6.0\refint\Result.dll
+D:\Dev\kubernetes-training\k8s4rmscratch\Week 2\result\obj\Debug\net6.0\Result.pdb
+D:\Dev\kubernetes-training\k8s4rmscratch\Week 2\result\obj\Debug\net6.0\Result.genruntimeconfig.cache
+D:\Dev\kubernetes-training\k8s4rmscratch\Week 2\result\obj\Debug\net6.0\ref\Result.dll
