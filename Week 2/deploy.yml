@@ -137,7 +137,7 @@ metadata:
     app: results
   name: results
 spec:
-  replicas: 100
+  replicas: 1
   selector:
     matchLabels:
       app: results
