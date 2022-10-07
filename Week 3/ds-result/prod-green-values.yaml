@@ -1,0 +1,10 @@
+replicaCount: 2
+namespace: prod-green 
+
+image:
+  repository: marlonr/ds-result
+  pullPolicy: IfNotPresent
+
+service:
+  type: LoadBalancer
+  port: 80
