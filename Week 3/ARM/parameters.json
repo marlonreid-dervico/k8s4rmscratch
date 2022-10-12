@@ -1,0 +1,57 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "resourceName": {
+            "value": "my-aks-cluster"
+        },
+        "location": {
+            "value": "northeurope"
+        },
+        "dnsPrefix": {
+            "value": "my-aks-cluster-dns"
+        },
+        "osDiskSizeGB": {
+            "value": 0
+        },
+        "kubernetesVersion": {
+            "value": "1.23.12"
+        },
+        "networkPlugin": {
+            "value": "kubenet"
+        },
+        "enableRBAC": {
+            "value": true
+        },
+        "vmssNodePool": {
+            "value": true
+        },
+        "windowsProfile": {
+            "value": false
+        },
+        "nodeResourceGroup": {
+            "value": "MC_aks_my-aks-cluster_northeurope"
+        },
+        "adminGroupObjectIDs": {
+            "value": []
+        },
+        "azureRbac": {
+            "value": false
+        },
+        "disableLocalAccounts": {
+            "value": false
+        },
+        "enablePrivateCluster": {
+            "value": false
+        },
+        "enableHttpApplicationRouting": {
+            "value": false
+        },
+        "enableAzurePolicy": {
+            "value": false
+        },
+        "enableSecretStoreCSIDriver": {
+            "value": false
+        }
+    }
+}
