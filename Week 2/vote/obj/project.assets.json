@@ -169,11 +169,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Dev\\kubernetes-training\\k8s4rmscratch\\Week 2\\vote\\Vote.csproj",
+      "projectUniqueName": "D:\\k8s4rmscratch\\Week 2\\vote\\Vote.csproj",
       "projectName": "Vote",
-      "projectPath": "D:\\Dev\\kubernetes-training\\k8s4rmscratch\\Week 2\\vote\\Vote.csproj",
+      "projectPath": "D:\\k8s4rmscratch\\Week 2\\vote\\Vote.csproj",
       "packagesPath": "C:\\Users\\marlonr\\.nuget\\packages\\",
-      "outputPath": "D:\\Dev\\kubernetes-training\\k8s4rmscratch\\Week 2\\vote\\obj\\",
+      "outputPath": "D:\\k8s4rmscratch\\Week 2\\vote\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Dev\\kubernetes-training\\k8s4rmscratch\\Week 2\\worker\\Worker.csproj": {}
+    "D:\\k8s4rmscratch\\Week 2\\worker\\Worker.csproj": {}
   },
   "projects": {
-    "D:\\Dev\\kubernetes-training\\k8s4rmscratch\\Week 2\\worker\\Worker.csproj": {
+    "D:\\k8s4rmscratch\\Week 2\\worker\\Worker.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Dev\\kubernetes-training\\k8s4rmscratch\\Week 2\\worker\\Worker.csproj",
+        "projectUniqueName": "D:\\k8s4rmscratch\\Week 2\\worker\\Worker.csproj",
         "projectName": "Worker",
-        "projectPath": "D:\\Dev\\kubernetes-training\\k8s4rmscratch\\Week 2\\worker\\Worker.csproj",
+        "projectPath": "D:\\k8s4rmscratch\\Week 2\\worker\\Worker.csproj",
         "packagesPath": "C:\\Users\\marlonr\\.nuget\\packages\\",
-        "outputPath": "D:\\Dev\\kubernetes-training\\k8s4rmscratch\\Week 2\\worker\\obj\\",
+        "outputPath": "D:\\k8s4rmscratch\\Week 2\\worker\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

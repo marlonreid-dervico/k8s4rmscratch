@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yXk2wFSrz5tWBrwagJnsyh1a6JNzzfgwFAfT8HwxqE5fhcW+QEQ9CQBhnDgzrpheA90osmkFmU/cMEaQ+0dPyA==",
+  "dgSpecHash": "QPev5iW/YTAlbCOtd5PLxpj2EkfFARCxcisXOsMmUoCIyiTZQ0ncMYiho/tMFme9S9qfZMUAQFGXnaR3VmH9dg==",
   "success": true,
-  "projectFilePath": "D:\\Dev\\kubernetes-training\\k8s4rmscratch\\Week 2\\vote\\Vote.csproj",
+  "projectFilePath": "D:\\k8s4rmscratch\\Week 2\\vote\\Vote.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\marlonr\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.14.0\\microsoft.visualstudio.azure.containers.tools.targets.1.14.0.nupkg.sha512",
     "C:\\Users\\marlonr\\.nuget\\packages\\nats.client\\1.0.1\\nats.client.1.0.1.nupkg.sha512",

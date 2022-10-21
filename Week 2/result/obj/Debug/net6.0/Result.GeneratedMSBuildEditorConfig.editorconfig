@@ -8,13 +8,13 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Result
 build_property.RootNamespace = Result
-build_property.ProjectDir = D:\Dev\kubernetes-training\k8s4rmscratch\Week 2\result\
+build_property.ProjectDir = D:\k8s4rmscratch\Week 2\result\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\Dev\kubernetes-training\k8s4rmscratch\Week 2\result
+build_property.MSBuildProjectDirectory = D:\k8s4rmscratch\Week 2\result
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/Dev/kubernetes-training/k8s4rmscratch/Week 2/result/Pages/Index.cshtml]
+[D:/k8s4rmscratch/Week 2/result/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 

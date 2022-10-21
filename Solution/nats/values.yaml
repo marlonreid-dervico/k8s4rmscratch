@@ -1,0 +1,12 @@
+replicaCount: 1
+namespace: dev
+image:
+  repository: marlonr/ds-vote
+  pullPolicy: IfNotPresent
+
+service:
+  type: LoadBalancer
+  port: 80
+
+readypath: /ready
+readyport: 80
